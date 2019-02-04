@@ -1,0 +1,8 @@
+# General dependencies
+**/.idea
+
+# Front-end dependencies and temps
+**/node_modules/
+**/bower_components/
+**/vendor/
+
